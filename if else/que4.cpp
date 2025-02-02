@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	int percentage;
+	float percentage;
 	
 	cout << "Enter Student's Percentage:";
 	cin >> percentage;
